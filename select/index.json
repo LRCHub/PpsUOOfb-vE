@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Jailhouse Rock",
+  "base_artist": "Elvis Presley",
+  "createdAt": "2026-02-26T12:57:55.760107Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jailhouse Rock",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/01_Jailhouse_Rock_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jailhouse Rock",
+      "artist": "The Blues Brothers",
+      "has_synced": false,
+      "path": "select/02_Jailhouse_Rock_The_Blues_Brothers.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jailhouse Rock",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/03_Jailhouse_Rock_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jailhouse Rock - Live",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/04_Jailhouse_Rock_-_Live_Queen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jailhouse Rock",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/05_Jailhouse_Rock_Queen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jailhouse Rock - Live",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/06_Jailhouse_Rock_-_Live_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jailhouse Rock - Live At Detroit, Port Chester, NY/1979",
+      "artist": "Twisted Sister",
+      "has_synced": false,
+      "path": "select/07_Jailhouse_Rock_-_Live_At_Detroit,_Port_Chester,_NY_1979_Twisted_Sister.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jailhouse Rock - Live at Hammersmith 1984",
+      "artist": "Twisted Sister",
+      "has_synced": false,
+      "path": "select/08_Jailhouse_Rock_-_Live_at_Hammersmith_1984_Twisted_Sister.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jailhouse Rock",
+      "artist": "Adriano Celentano",
+      "has_synced": false,
+      "path": "select/09_Jailhouse_Rock_Adriano_Celentano.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jailhouse Rock",
+      "artist": "ZZ Top",
+      "has_synced": false,
+      "path": "select/10_Jailhouse_Rock_ZZ_Top.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jailhouse Rock",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/11_Jailhouse_Rock_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jailhouse Rock (Live)",
+      "artist": "ZZ Top",
+      "has_synced": true,
+      "path": "select/12_Jailhouse_Rock_(Live)_ZZ_Top.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jailhouse Rock - Live At The Montreal Forum / November 1981",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/13_Jailhouse_Rock_-_Live_At_The_Montreal_Forum___November_1981_Queen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jailhouse Rock (Live At The Montreal Forum \u0000 November 1981)",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/14_Jailhouse_Rock_(Live_At_The_Montreal_Forum_\u0000_November_1981)_Queen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jailhouse Rock (Live)",
+      "artist": "ZZ Top",
+      "has_synced": true,
+      "path": "select/15_Jailhouse_Rock_(Live)_ZZ_Top.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jailhouse Rock",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/pl_01_Jailhouse_Rock_Elvis_Presley.txt"
+    }
+  ]
+}
